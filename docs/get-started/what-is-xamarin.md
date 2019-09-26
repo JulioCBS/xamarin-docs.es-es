@@ -17,14 +17,14 @@ ms.locfileid: "71256622"
 
 [![Capturas de pantallas de la aplicación Xamarin de ejemplo en iOS y Android](what-is-xamarin-images/xamarin-app-cropped.png)](what-is-xamarin-images/xamarin-app.png#lightbox)
 
-Xamarin es una plataforma de código abierto para compilar aplicaciones modernas y de rendimiento para iOS, Android y Windows con .NET. Xamarin es una capa de abstracción que administra la comunicación de código compartido con código de plataforma subyacente. Xamarin se ejecuta en un entorno administrado que proporciona ventajas como la asignación de memoria y la recolección de elementos no utilizados.
+Xamarin es una plataforma de código abierto para compilar aplicaciones modernas y de rendimiento para iOS, Android y Windows con .NET. Xamarin es una capa de abstracción que administra, la comunicación de código compartido con el código de la plataforma subyacente. Xamarin se ejecuta en un entorno administrado que proporciona ventajas como la asignación de memoria y la recolección de elementos no utilizados.
 
 Xamarin permite a los desarrolladores compartir un promedio del 90% de la aplicación entre plataformas. Este patrón permite a los desarrolladores escribir toda la lógica de negocios en un solo idioma (o reutilizar el código de aplicación existente), pero conseguir un rendimiento nativo, buscar y sentir en cada plataforma.
 
 Las aplicaciones de Xamarin se pueden escribir en PC o Mac y compilar en paquetes de aplicaciones nativas, como un archivo **. apk** en Android o un archivo **. IPA** en iOS.
 
 > [!NOTE]
-> La compilación e implementación de aplicaciones para iOS requiere actualmente una máquina MacOS. Para obtener más información sobre los requisitos de desarrollo, consulte [requisitos del sistema](~/cross-platform/get-started/requirements.md#macos-requirements).
+> La compilación e implementación de aplicaciones para iOS requiere actualmente  de una máquina MacOS. Para obtener más información sobre los requisitos de desarrollo, consulte [requisitos del sistema](~/cross-platform/get-started/requirements.md#macos-requirements).
 
 ## <a name="who-xamarin-is-for"></a>Personas para Xamarin
 
